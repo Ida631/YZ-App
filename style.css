@@ -32,7 +32,7 @@ body {
 .jumbotron {
   display: flex;
   align-items: right top;
-  background-image: url('p1%20.jpg');
+  background-image: url('p1.jpg');
   background-size: cover;
   color: #333333;
   background-repeat: repeat-x;
