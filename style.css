@@ -32,7 +32,7 @@ body {
 .jumbotron {
   display: flex;
   align-items: right top;
-  background-image: url('p1.jpg');
+  background-image: url('p02.jpg');
   background-size: cover;
   color: #333333;
   background-repeat: repeat-x;
@@ -40,7 +40,7 @@ body {
   height: 450px;
   text-shadow: 0.25px 0.25px 0.25px #000000;
   padding: 35px;
-  border-bottom: 50px solid black;  
+  border-bottom: 5px solid white;  
   font-family: "Berlin Sans FB"; 
 }
 .jumbotron h2 {
